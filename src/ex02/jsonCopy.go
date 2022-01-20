@@ -29,7 +29,7 @@ func main() {
 	fmt.Printf("item1の内容 :%+v\n", item1)
 	fmt.Printf("item2の内容 :%+v\n", item2)
 
-	// 違うアドレスにコピーした
+	// アドレスをコピーした？
 	item3 := &item1
 
 	fmt.Println("=============item3===============")
