@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	/*
 		はじめてのGO　きみとGO
 		I will give you all golang
